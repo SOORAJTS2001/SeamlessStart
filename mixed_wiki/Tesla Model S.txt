@@ -1,0 +1,275 @@
+The Tesla Model S is a battery electric full-size luxury sedan with a liftback body style built by Tesla, Inc. since 2012. The Model S features a battery-powered dual-motor, all-wheel drive layout, although earlier versions featured a rear-motor and rear-wheel drive layout.
+Development of the Model S began prior to 2007, under the codename "WhiteStar". The Model S was officially announced on June 30, 2008, and a prototype vehicle was unveiled in March 2009. The Model S debuted on June 22, 2012. A revised, dual-motor, all-wheel-drive version, known as the 60D, debuted on October 9, 2014. The 60D was followed by the 70D, which made dual-motor and all-wheel drive the standard, followed by the 85D, P85D, and P90D. Along with these updates, Tesla offered the Autopilot driving assistance system. The first major design refresh came in April 2016 when the Model S was updated with a new front hood design. In October of the same year, hardware became standard that supports Tesla's Full Self Driving (FSD) capability. As part of the update, integrated standard cameras around the car were added. In February 2017 the Tesla Model S P100D debuted, which included a revised motor and was the first electric vehicle to have an EPA estimated range exceeding 300 miles (483 km). The second major design refresh, codenamed "Palladium", was introduced in June 2021, offering a new "Plaid" performance model, along with a revised interior, powertrain, and suspension.
+
+The Model S became the first electric car to top the monthly new-car-sales ranking in any country, leading twice in Norway, in September and December 2013 and in Denmark in December 2015. Sales passed 250,000 units in September 2018. The Model S was the top-selling plug-in electric car worldwide in 2015 and 2016, although it was later surpassed by the Model 3. Upon its release, the Model S received positive reviews, with praise for its acceleration and range, although initial models received criticism for their high cost and braking issues.
+
+
+== Development ==
+The Model S was developed by a team led by Franz von Holzhausen, who previously worked for Mazda North American Operations. Holzhausen drew upon the design of the CLS series of cars. Codenamed "WhiteStar" prior to its official unveiling, the Model S was designed with an electric powertrain in mind, unlike other electric vehicles where the manufacturer swaps out an internal combustion engine with an electric motor. As a result, the Model S offers features such as a front trunk ("frunk") in addition to a rear trunk and an enlarged crumple zone.In January 2007, Tesla announced plans to build consumer-level sedans starting in 2009; production was later delayed to 2011. The Model S was officially announced on June 30, 2008, and a prototype vehicle was displayed on March 26, 2009. In May 2010, Tesla announced it would produce the Model S at the former NUMMI plant in Fremont, California.
+The Model S officially launched on June 22, 2012. Production grew from 15–20 cars completed per week in August 2012 to about 1,000 cars per week in 2015. Upon its release, United States Environmental Protection Agency (EPA) rated the range for the base model at 208 mi (335 km) while the longer range model was estimated to have a range of 265 miles (426 km). Musk claimed that the Model S battery offered twice the energy density of the Nissan Leaf's, with more than double the range, increased by a low drag coefficient, motor efficiency and rolling resistance. The original battery was made up of cells similar to the Panasonic NCR18650B that offered an energy density of 265 Wh/kg. Analysts estimated battery costs to be around 21–22% of the car cost. The 60 kWh battery was guaranteed for eight years or 125,000 miles (200,000 km), while the 85 kWh was guaranteed for eight years and unlimited miles. Throughout 2012, Tesla began building a network of 480-volt charging stations, called Tesla Superchargers, to facilitate long-distance travel.
+
+
+=== Subsequent changes ===
+On October 9, 2014, Tesla introduced all-wheel drive (AWD) versions of the Model S 60, 85, and P85 models, designated by a D at the end of the model number (the P represents performance). Deliveries of the P85D started in December 2014, with the 85D models following in February 2015, and the 70D models in April 2015.In September 2014, the Model S began to be equipped with cameras, forward looking radar and ultrasonic acoustic location sensors that provided a 360-degree view, to be used with Tesla Autopilot. Autopilot later arrived in October 2015, as part of a software update.In June 2015, Tesla stated that the Model S had traveled over 1 billion miles (1.6 billion km), the first all-electric car to reach that total. Globally, Model S sales passed 100,000 units that year, and 150,000 in November 2016. The 200,000 milestone was achieved by early in the fourth quarter of 2017.Throughout 2015, Tesla would make various changes to the Model S, including an enhanced powertrain that would last for one million miles. An update that year introduced electromechanical brakes. That same year, Tesla introduced a 70 kWh battery to replace the existing 60 kWh batteries and base 60 kWh Model S vehicles. Tesla also introduced a 90 kWh battery as a "range upgrade" and explained that the 6% energy increase was due to "improved cell chemistry" and the introduction of silicon into the cell's graphite anode. After being discontinued the year prior, the 60 and 60D returned in 2016 with a software-limited, upgradeable 75 kWH battery and a new air filter, dubbed "Bioweapon Defense Mode".In April 2016, Tesla removed the black nose cone and added a body colored fascia. The front fascia has a similar design as the Model X, adding adaptive LED headlights. A HEPA cabin air filtration system was added. The standard charger increased from 40 to 48 amps, speeding charging at higher power outlets. Two ash wood interior options were added. In August of that year, Tesla announced the P100D with a "Ludicrous" mode option, a 100 kWh battery with 315 miles (507 km) of range, weighing 625 kg in a 0.40 m3 volume, a density of 160 Wh/kg.In 2017 Tesla introduced "ludicrous mode plus", which includes "launch mode", claiming that with both modes the car can accelerate from 0 to 60 mph in 2.3 seconds.In April 2017, Tesla discontinued the 60 kWh software-limited battery option. The lowest-capacity option subsequently became the 75 kWh battery. Additionally, Tesla significantly reduced the software upgrade options for the facelifted 60 and 70 models to be upgraded over-the-air to 75 (and rebadged at their next visit to a Tesla service center). In August 2017, Tesla announced that HW2.5 included a secondary processor node to provide more computing power and additional wiring redundancy to improve reliability; it also enabled dashcam and sentry mode capabilities.In March 2018, the Media Control Unit (MCU) was updated, improving the performance of the center screen and adding games to the MCU such as Cuphead and streaming services such as Netflix to the MCU. In May of that year, in collaboration with the Software Freedom Conservancy, Tesla released some of the internal source code of Model S on a GitHub repository as part of their software license compliance process.In May 2019, as part of an engineering refresh, the range of the Model S was increased to 370 mi (600 km) and smart air suspension was added. The range would be increased further in February 2020 to 390 mi (630 km) of range. In August 2020, the EPA updated the results of their range test of the Model S to 402 miles (647 km).On October 15, 2020, the U.S. price of the long-range version was lowered to $69,420, a reduction of $2,570 from two days prior.
+In early 2021, with the introduction of an entirely new interior, now with landscape orientation of the MCU, more rear seat room, and a lightly modified exterior, Tesla changed the "Performance" and "Long Range" Model S branding in favor of "Plaid" and "Long Range," respectively. On June 10, 2021, the Model S Plaid was released at a delivery event at the factory with nearly 30 new owners taking delivery that evening; the Plaid version notably featured a return of the third-row seating, allowing a total of seven passengers, although third-row seating is not present within the consumer version of the car. The Long Range version was EPA-rated to a new high of 405 mi (652 km) when equipped with the standard 19" wheels, making it the longest range EV in the world at the time; the Plaid was listed at 396 mi (637 km) of range.
+
+
+== Design ==
+The Model S is classified as a full-size luxury sedan in the United States, although the EPA refers to the Model S as a "Large Car" (greater than or equal to 120 cu ft or 3.4 m3) or "Luxury Sedan". The Euro Car Segment classifies the Model S as a S-segment (sports car); in Germany, the Model S is classified as "Oberklasse" (F-segment).All versions of the Model S have the same body and normally seat five passengers. Other configurations were once available so as to allow for a third-row seat with two additional seats, for a total of seven passengers.
+
+
+=== Powertrain ===
+The Model S powertrain has gone through several iterations since its first release, increasing in efficiency, power, and durability. In 2014, Tesla claimed that the Model S recovered the energy that went into producing it in fewer than 10,000 miles (16,000 km). The powertrain provides regenerative braking power of more than 60 kW, which both reduces energy consumption and greatly reduces brake wear.The rear axle has a traditional open differential. Models with Dual Drive dual motors also have an open differential on the front axles. The front and rear axles have no mechanical linkage—with dual motors, the power distribution among them is controlled electronically. With the introduction of the tri-motor Plaid version in mid-2021, new performance levels were achieved, making the Model S Plaid the fastest accelerating production car in the world until the debut of Rimac’s Nevera in mid-2022.
+
+
+=== Battery ===
+The battery pack includes thousands of identical cylindrical 18650 battery cells 18 mm in diameter and 65 mm in height. These cells use a graphite/silicon anode and a nickel-cobalt-aluminum cathode with an aqueous electrolyte and lithium ions as charge carriers. The battery capacity within the Model S has changed numerous times since its debut, ranging from 60–100 kWH. The batteries are the heaviest component within the Model S; the 85 kWh battery pack weighed 1,200 lb (540 kg).Tesla manufactures some Model S cells internally, and some in partnership with Panasonic.
+
+
+==== Cell, group, module, pack ====
+The P85 pack contains 7,104 lithium-ion battery cells in 16 modules wired in series (14 in the flat section and two stacked on the front). Each module contains 6 groups of 74 cells wired in parallel; the 6 groups are then wired in series within the module.The motor, controller and battery temperatures are controlled by a liquid cooling/heating circuit, and the battery is uninsulated. Waste heat from the motor heats the battery in cold conditions, battery performance is reduced until heated by motor generated heat until a suitable battery temperature is reached, in contrast to using an electric battery heater. The battery can be pre-heated by a 6 kW internal heater, either from itself using battery power, or from a charger.
+
+
+==== Placement ====
+In contrast to most earlier battery electric vehicles including the Tesla Roadster, the battery pack of the Model S forms the floor of the vehicle between the axles, with several advantages:
+
+The center of gravity height is 18 inches (460 mm) (about the same as a Lotus Elise), helping it to achieve a lateral acceleration of 0.9 g and rollover protection.
+The bulk of the mass is between the axles, which lowers rotational inertia and allows it to turn more quickly for its weight.
+The battery cage increases the rigidity of the passenger compartment, improving passive safety.
+
+
+=== Energy consumption ===
+Under its five-cycle testing protocol, the United States Environmental Protection Agency (EPA) rated the 90 kWh version at a combined fuel economy equivalent of 104 MPGe (2.26 L/100 km or 125 mpg‑imp), with an equivalent 102 mpg‑US (2.3 L/100 km; 122 mpg‑imp) in city driving and 107 mpg‑US (2.2 L/100 km; 129 mpg‑imp) on highways.
+Vehicle energy consumption is highly dependent on speed; the Model S requires 10 kW (14 hp) at 70 mph (110 km/h), and 31 kW (42 hp) at 100 mph (160 km/h). Ancillary equipment (climate control, battery conditioning, etc.) may consume 15–25%, depending on outside temperature.
+
+
+=== Charger ===
+The charge port is located behind a door in the left taillight. During charging, the charge port pulses green. The pulse frequency slows as the charge level approaches full. When charging is complete, the light turns solid green. The Model S comes equipped with a different charger and connector in North America versus other markets.The Mobile Connector allows charging at up to 72 amps and includes adapters for connecting to a variety of electricity sources.Tesla supports the SAE J1772, Type 2, and CHAdeMO charging standards via certain adapters.
+
+
+==== North America ====
+In North America, adapters for 120 volt NEMA 5-15 outlets, as well as an adapter for SAE J1772 charging stations, are included. Other adapters including the popular NEMA 14–50 250V adapter can be purchased from Tesla for use with the Mobile Connector.
+Charging times depend on the battery pack's state-of-charge, its capacity, the available voltage, and the available amperage. From a 120 volt/15 amp household outlet, the range increases by 3.75 miles (6 km) for every hour of charging. From a 10 kW, NEMA 14–50 240 V/50 A outlet (like those used by RVs or stoves), the charge rate is 28.75 miles (46 km) per hour. Using Tesla's 20 kW, 240 V High Power Wall Connector increases the rate to 57 miles (92 km) per hour if the car is configured with dual chargers (20 kW).
+
+
+==== Europe/Asia-Pacific ====
+In Europe and the Asia-Pacific region, the Model S uses a Type 2 charger.
+
+
+=== Suspension ===
+While some Model S's were built with a base, steel spring, suspension, the vast majority have a self-leveling, height-adjustable air suspension. This is accomplished via adjustable Bilstein shock absorbers controlled by the driver. The car lowers itself at highway speeds and can be set to a higher level to traverse steep driveways and rough terrain, mitigating the default 6 in (150 mm) ground clearance and relatively long 116 in (2,900 mm) wheelbase.The suspension system has evolved via "over-the-air" software updates. The height adjustment feature remembers locations where the driver has requested higher clearance and automatically adjusts each time the car returns to that location.In early 2019, as part of the "Raven" update, the Model S was upgraded to feature an enhanced "Smart Air Suspension" with automatic, dynamic suspension adjustments.
+
+
+=== Autopilot ===
+
+Autopilot uses cameras, radar and ultrasound to detect road signs, lane markings, obstacles, pedestrians, cyclists, traffic lights, and other vehicles. Additionally, Autopilot includes adaptive cruise control and lane centering and supports semi-autonomous drive and parking capabilities.
+
+
+=== Instrument panel ===
+The instrument panel is located directly in front of the driver. It includes a 12.3-inch (310 mm) liquid-crystal display electronic instrument cluster that indicates speed, charge level, estimated range and active gear, as well as navigation directions. The Model S's touchscreen display was originally powered by a Nvidia Tegra 3 3D Visual Computing Module (VCM), while the instrument cluster was driven by a separate Nvidia Tegra 2 VCM. The Tegra system on a chip (SoC) integrated eight specialized processors, including a multi-core ARM CPU, a GPU, and dedicated audio, video and image processors.
+
+
+==== Touchscreen ====
+The original touchscreen was a 17-inch (430 mm) multi-touch panel. divided into four areas. A top line displayed status symbols and provided shortcuts for charging, HomeLink, driver profiles, vehicle information and Bluetooth. The second line provided access to apps including Media, Nav (driven by Google Maps, which was separate from the navigation on instrument panel), Energy, Web, Camera and Phone. The main viewing area displayed the (two) active apps, subdivided into upper and lower areas. (Most apps can be expanded to take up the entire area). At the bottom was access to various controls and settings for the vehicle such as doors, locks and lights as well as temperature controls and a secondary volume control. In June 2021, as part of the refresh of the Model S, the touchscreen was shifted to be in landscape mode, rather than a portrait mode.The map display requires a constant Internet connection, limiting navigation in areas without service. Automatic navigation to charging stations is included. The operating system powering the touchscreen runs Linux.
+
+
+=== Autoshift ===
+Introduced in mid-2021, the Plaid and Long Range versions of the Model S feature no steering column-mounted shift stalk; instead, the Model S uses cameras to infer whether to shift into forward or reverse. Earlier versions controlled transmission selection via a shift stalk on the right side of the steering column.
+
+
+=== Interior material ===
+As of 2017, the materials used within the seats are animal-free, made of synthetic fiber, with the steering wheel covers shifting to an animal-free material in late 2019 as well. The original impetus for this years-long transition to animal-free interiors may have been two shareholder proposals presented at an annual Tesla shareholders meeting in 2015, in which the substantial environmental damage caused by animal agriculture was highlighted, along with the obvious conflict with Tesla's stated mission.
+
+
+== Versions ==
+The Model S exists in several versions, differing in energy capacity, motor size and power, and equipment.
+
+
+=== Signature/Signature Performance ===
+Tesla allocated its first 1,000 units to its Signature and Signature Performance limited edition configurations, equipped with the 85 kWh battery pack.A custom Model S was designed for the Oceanic Preservation Society in collaboration with Obscura Digital, and was used to project images of endangered animals to help educate the public about ongoing Holocene mass extinction, as featured in the 2015 documentary Racing Extinction.
+
+
+=== 60/85/P85 ===
+The base Model S 60 was released with 60 kWh battery capacity and used a 270 kW (362 hp), 441 N⋅m (325 ft⋅lb) motor.
+The model 85 was a RWD 85 kWh battery with 278 kW (373 hp) and 441 N⋅m (325 lbf⋅ft).The Performance variant (P85) offered a three-phase, four-pole AC induction 310 kW (416 hp) 601 N⋅m (443 ft⋅lb) rear-mounted electric motor with a copper rotor.The company claimed a drag coefficient of Cd=0.24, lower than any other production car when released. Independent measurements by Car and Driver in May 2014 confirmed the figure.
+
+
+=== 70D ===
+The 70D replaced the 60, 60D, and P85, offering all-wheel drive and an improved range of 240 miles (385 km).In January 2019, Tesla made the 100D the base version and discontinued the 75D version.
+
+
+=== 85D ===
+The 85D replaced the rear drive unit with a smaller motor, while a second motor of similar size was added to the front wheels. The resulting AWD car offered comparable power and acceleration to the rear wheel drive. The 85D offered a 2% (5-mile) range increase and 11% increase in top speed over the 85.
+
+
+=== P85D ===
+The P85D was a dual-motor, all-wheel-drive vehicle. The high-power rear-drive unit was retained, while the additional front-drive motor increased power by about 50%, increasing acceleration and top speed.
+Tesla originally said the total output could reach 515 kW (691 hp). However, the battery was unable to supply both motors with their maximum power at the same time, so total power is limited to 345 kW (463 hp).It had a governed top speed of 155 mph (249 km/h) and it accelerated from 0 to 60 miles per hour (0 to 97 km/h) in 3.2 seconds (tested to 3.1 seconds), under "Insane Mode", with 1g of acceleration.
+
+
+=== P90D ===
+The P90D had a top speed of 155 mph (249 km/h) and it could accelerate from 0 to 60 miles per hour (0 to 97 km/h) in 2.8 seconds, despite the lower total motor power, in part due to the improved traction of the all-wheel drive powertrain. An optional "Ludicrous Mode" hardware package improved the 0 to 60 mph (0 to 97 km/h) time to 2.8 seconds at 1.1g.The P90D combined a front axle power of 259 horsepower (193 kW) and rear axle power of 503 horsepower (375 kW) for a 0–60 mph (0–97 km/h) time of 2.8 seconds. The acceleration of the P90D can reach 1.1g, described by Tesla as "faster than falling".In June 2017, Tesla discontinued selling the 90 kWh battery pack option.
+
+
+=== P100D ===
+The P100D outputs 439 kW (589 hp) and 1,248 N⋅m (920 lbf⋅ft) torque on a dynamometer.As of March 2017, P100D was the world's quickest production vehicle with a NHRA rolling start to 60 mph (97 km/h) in Motor Trend tests in 2.28 seconds (acceleration clock started after 0.26 seconds at 5.9 mph (9.5 km/h)) in Ludicrous mode.Owing to overheating issues (the radiator has no blower), multiple uses of Ludicrous mode required rest periods to protect the battery. According to Motor Trend, selecting the "Yes, bring it on!" option for maximum acceleration "initiates a process of battery and motor conditioning, wherein the battery temperature is raised slightly and the motors are cooled using the air-conditioning system. It usually takes just a few minutes, longer in extreme ambient temperatures or after repeated runs. You should expect to wait a minimum of 10 minutes in-between runs."It offered an EPA estimated range of 315 mi (507 km). It was the first electric vehicle to have an EPA estimated range greater than 300 miles (485 km).
+
+
+=== Raven ===
+In 2019, the Performance and Long Range Plus variants offered the "Raven" powertrain. It included the permanent magnet synchronous reluctance motor from the Tesla Model 3 as the front motor. The motor was more powerful and more efficient than its predecessor. The Raven powertrain included a new adaptive air suspension.
+
+
+=== Palladium (Plaid) ===
+The Palladium refresh was announced in January 2021 with initial deliveries in June 2021. The refresh included a new interior, new powertrain, suspension and thermal management amongst other improvements. The refresh originally consisted of three models, the Long Range (LR), the Plaid, and the Plaid+, although the Plaid+ was cancelled shortly before deliveries began. The "Plaid" name is applied to the performance model and is a reference to the only speed faster than "Ludicrous" in the movie Spaceballs.The Plaid model includes one motor for the front axle and two motors for the rear axle; the starting price was $131,100. At the core of the Plaid's performance are innovative new motors featuring a carbon-wrapped rotor to allow much higher motor RPM. Musk said that this presented challenges, because carbon and copper (the rotor material) have different thermal expansion rates. The Long Range model includes the front motor and a single rear motor; its starting price was $80k, but it was raised to $85k soon after deliveries began. "Track Mode" allows for adjustment from 100% FWD to 100% RWD in 5% increments, traction control strength in 21 stages and regenerative braking strength from 0% to 100% in 5% increments.At its debut, the Palladium models had the lowest drag coefficient of any production car, with Cd=0.208. The new HVAC system uses a heat pump that Tesla says provides 30% longer range and requires 50% less energy in cold weather conditions than the previous Model S. Charging was said to increase by 187 miles (301 km) in 15 minutes (on a 250 kW Supercharger). The interior features a non-circular yoke steering wheel, a landscape-oriented center screen, a screen for the rear passengers, increased headroom and legroom, particularly in the rear seat area, lower noise via acoustic glass, a new, customizable user interface, and improved gaming (via the AMD RDNA 2 GPU). The company estimated that deliveries will reach 1000/week in Q3 of 2021.The Plaid has 1,020 horsepower (760 kW) and 1,050 pound-feet (1,420 N⋅m) of torque. It was independently tested by Motor Trend to go 0–60 mph (0–97 km/h) in 2.07 seconds (1.98 on a prepped drag strip, ex. with PJ1 TrackBite) and cover a quarter-mile (400 m) in 9.34 seconds at 152.2 mph (244.9 km/h). Tesla said it will reach a 200 mph (320 km/h) top speed.
+
+
+== Charging ==
+
+Tesla recommends overnight charging at home as the primary method of charging. In general, the convenience of plugging in overnight outweighs the far longer charging interval.
+For charging outside the home, Tesla has partnered with businesses to install Tesla Wall Connectors to provide a charging network called Tesla Destination. The units are provided to the businesses by Tesla for free or at a discounted price. The business is responsible for the cost of electricity. Not all destination chargers are available to the public, as some businesses limit them to customers, employees, or residents only.Tesla operates a global network of 480-volt charging stations. The Tesla network is usable only by Tesla vehicles apart from select countries in Europe where Tesla is currently running their Non-Tesla Supercharging Pilot. Supercharging hardware is standard on all new vehicles and most earlier editions. The Supercharger is a DC rapid-charging station that provides up to 250 kW of power, adding up to 15 mi (24 km) per minute.Tesla originally designed the Model S to allow fast battery swapping, which also facilitated vehicle assembly. In 2013, Tesla demonstrated a battery swap operation taking around 90 seconds, about half the time it takes to refill an empty gas tank. Tesla originally planned to support widespread battery swapping, but supposedly abandoned the plan due to perceived lack of interest by customers.  Tesla has been accused of gaming the California Air Resources Board system for zero-emission vehicle credits by launching the "battery swap" program that was never made available to the public. Tesla announced in 2020 that it would integrate the batteries into the body to increase strength and reduce weight and cost.
+
+
+== Sales and markets ==
+U.S. deliveries began June 2012. Tesla reported 520 reservations for the Model S during the first week they were available and by December 2012, a total 15,000 net reservations (after deliveries and cancellations) had been received by year-end.The special edition Model S Signature model was sold out before deliveries began in June 2012, and according to Tesla all models were sold out for that year shortly after. A total of 2,650 cars were delivered in North America in 2012.Tesla delivered 50,658 Model S/X units in 2015. Tesla sold more than 50,000 Model S cars globally in 2016, making it the world's top selling plug-in electric that year. In 2017, it became only the second EV to sell more than 200,000 units behind the Nissan Leaf.
+The Model S was released in Europe in early August 2013, and the first deliveries took place in Norway, Switzerland and the Netherlands. By November 2013, the Model S was on sale in 20 countries. By the end of 2013, Norway and Switzerland became the company's largest per capita sales markets.Retail deliveries in China began in April 2014. The right-hand-drive model was released in the UK in June 2014, followed by Hong Kong in July 2014 and Japan in September 2014. Deliveries in Australia began in December 2014.The Model S ranked as the world's second best selling plug-in electric vehicle after the Nissan Leaf. About 55% of deliveries went to North America, 30% to Europe, and 15% to the Asia-Pacific market.As of June 2015, the Model S was sold in 30 countries. The Model S was the world's best-selling plug-in electric car in 2015, ahead of the Nissan Leaf (about 43,000 units).
+
+
+=== 2016–2020 ===
+The Model S was the world's top selling plug-in car for the second year running. As of 2018, the Model S rank fell to second place after the BAIC EC-Series city car, which sold over 78,000 units in China.The Model S continued to rank as the second most-sold electric car in history after the Nissan Leaf. As of December 2018, cumulative global sales totaled about 263,504 units.In 2019, in-year sales of the Model 3 exceeded the total number of the Model S ever sold. By 2021, combined quarterly sales of the Model 3 and Model Y exceeded the total number of the Model S ever sold.
+
+
+=== Sales by country ===
+
+
+==== Asia/Pacific ====
+The first nine Australian units were delivered in Sydney on December 9, 2014. Tesla opened its first store and service centre in St Leonards, and its first Supercharger station at Pyrmont in December 2014.The Model S was the top selling all-electric car in the country for the first quarter of 2015.The first Chinese deliveries took place on April 22, 2014. The standard equipment was the same as the European version, with larger back seats because the car was expected to be driven by a chauffeur. By mid-2018, China ranked as Tesla’s second largest market. Sales began in Hong Kong in July 2014.
+
+
+==== Europe ====
+European retail deliveries began in August 2013, in Norway, Switzerland and the Netherlands. Europe's first delivery took place in Oslo on August 7, 2013. By the end of August, Europe's first six charging stations opened, in Lyngdal, Aurland, Dombås, Gol, Sundebru and Lillehammer. Sales rose most rapidly in Norway. In April 2014 the Schiphol Group announced that three companies were selected to provide all-electric taxi service in Amsterdam Airport Schiphol. The Model S topped the European luxury car segment in 2015, ahead of the Mercedes-Benz S-Class (14,990), the traditional leader.Sales in 2015 totaled 1,805 units, and declined to 1,693 in 2016. As of October 2016, combined registrations of the Model S (5,681) and the Model X (250) represented 48.6% of the 12,196 all-electric cars on Dutch roads at the end of that month. The Model S was the all-time top selling all-electric car in the Netherlands with 12,394 cars registered at the end of March 2021, however it has since been overtaken by the Tesla Model 3, with 38,745 cars registered in March 2021.In the UK from 2021 to 2022, deliveries of Model S vehicles dropped significantly to almost zero. In 2023, Tesla also stated that the Model S will not be sold in the UK or Ireland in right-hand drive for the 'foreseeable future'. In July 2023, the Plaid model was launched in the UK, and the standard Model S was relaunched, but both are only available in left-hand drive.
+
+
+=== North America ===
+The world's first delivery took place on June 1, 2012 in California, to a Tesla board member, while formal deliveries to the public began at a large ceremony on June 22, 2013.The first Model S sedans were delivered in Canada in December 2012.Retail sales began in Mexico City in December 2015. Initially, no Supercharger stations are available in the country.
+
+
+=== Retail sales model ===
+
+Tesla sells its cars directly to consumers without a dealer network, as other manufacturers have done and as many states require by legislation. In support of its approach, the company fought legal and legislative battles in Ohio, New Jersey, New York and other states. The Tesla direct sales model was permitted in 22 states as of March 2015. In other states the Tesla salesperson is not allowed to discuss prices, and the ultimate sale must be made online.
+
+
+== Safety ==
+Tesla has made many claims about the safety of its vehicles, encompassing vehicle structure and driver assist software.
+
+
+=== Features ===
+ In 2014, the Model S had a 5-star safety rating from both Euro NCAP and the U.S. National Highway Traffic Safety Administration (NHTSA). At that time, only two other cars had earned the same recognition since 2011 (when the NHTSA introduced its latest rating scheme).
+
+
+=== Incidents ===
+
+
+==== Initial battery fire incidents ====
+The first widely reported fire occurred several minutes after the vehicle hit metal debris on the Washington State Route 167 highway on October 1, 2013. The driver "was able to exit the highway as instructed by the onboard alert system, bring the car to a stop and depart the vehicle without injury". He then contacted authorities and, while awaiting their arrival, smoke began coming out the front of the vehicle. The driver stated that he hit something while exiting the HOV lane. Tesla stated that the fire was caused by the "direct impact of a large metallic object to one of the 16 battery modules", and that by design, the modules were separated by firewalls, limiting the fire to "a small section in the front of the vehicle".The module was evidently punctured by a "curved section" that fell off a truck and was recovered near the accident. Tesla stated that the debris punched a 3-inch (76 mm) diameter hole through the .25-inch (6.4 mm) armor plate under the vehicle, applying force of some 25 tons. Built-in vents directed the flames away from the vehicle so that the fire did not enter the passenger compartment. According to Tesla, the firefighters followed standard procedure; using water to extinguish the fire was correct, however, puncturing the metal firewall to gain access to the fire also allowed the flames to spread to the front trunk. Tesla also stated that because the battery pack contains "only about 10% of the energy contained in a gasoline tank", the effective combustion potential of a single module is only about 1% that of a conventional vehicle.NHTSA reported, "After reviewing all available data, the National Highway Traffic Safety Administration has not found evidence at this time that would indicate the recent battery fire involving a Tesla Model S was the result of a vehicle safety defect or noncompliance with federal safety standards." The following month, the NHTSA opened a preliminary evaluation to determine "the potential risks associated with undercarriage strikes on model year 2013 Tesla Model S vehicles". On March 28, 2014, NHTSA closed its investigation, claiming that the (new) titanium underbody shield and aluminum deflector plates, along with increased ground clearance, "should reduce both the frequency of underbody strikes and the resultant fire risk".
+
+
+==== Subsequent fires ====
+On November 6, 2013, a fire broke out after a Model S struck a tow hitch on the roadway, causing damage beneath the vehicle. The incidents led Tesla to extend its warranty to cover fire damage and to apply a software update to increase ground clearance when operating at highway speed.Another fire took place in Toronto, Canada, in February 2014. The Model S was parked in a garage and was not charging when the fire started. The origin of the fire is undetermined. According to Tesla "in this particular case, we don't yet know the precise cause, but have definitively determined that it did not originate in the battery, the charging system, the adapter or the electrical receptacle, as these components were untouched by the fire".Starting with vehicle bodies manufactured as of 6 March 2014, all units were outfitted with a triple underbody shield. Existing cars were retrofitted upon request or as part of routine service.On January 1, 2016, a 2014 Model S caught fire while supercharging unsupervised in Brokelandsheia, Norway. The vehicle was destroyed but nobody was injured. The fire was slow, and the owner had time to unplug the car and retrieve possessions. An investigation by the Norwegian Accident Investigation Board (AIBN) indicated that the fire originated in the car, but was otherwise inconclusive. In March 2016, Tesla stated that their own investigation into the incident concluded that the fire was caused by a short circuit in the vehicle's distribution box, but that the amount of damage prevented them from determining the exact cause. Tesla stated that the Supercharger detected the short circuit and deactivated, and a future Model S software update would stop the vehicle from charging if a short circuit is detected.NTSB stated that Teslas are not more prone to fires than other vehicles.
+
+
+=== Recalls ===
+As of December 2021, Tesla had had seven Model S recalls:
+On June 14, 2013, Tesla recalled Model S vehicles manufactured between May 10, 2013, and June 8, 2013, due to improper methods for aligning the left hand seat back striker to the bracket, which could weaken the weld between the bracket and frame.
+On January 13, 2014, Tesla recalled Model S vehicles manufactured in 2013, because the adapter, cord, or wall outlet could overheat during charging.
+On November 20, 2015, Tesla announced a voluntary recall of all of its 90,000 Model S vehicles, in order to check for a possible defect in the cars' front seat belt assemblies. The problem was raised by one customer in Europe. Tesla's resulting investigation was unable to identify a root cause for the failure, and the company decided to examine every car. Tesla reported that no accidents or injuries were related to the problem.
+On January 20, 2017, Tesla recalled Model S made from 2012 in January 2017 due to defective Takata airbags. Cars manufactured later (until 2017) had smaller risk.
+On April 20, 2017, Tesla issued a worldwide recall of 53,000 of the 76,000 Model S and Model X vehicles sold in 2016 due to faulty parking brakes.
+On March 30, 2018, all 123,000 Model S cars manufactured before April 2016 were recalled due to excessive corrosion of the bolts which secure the power steering, particularly those cars used in cold countries where roads are salted.
+In December 2021, 119,009 Model S vehicles were recalled because of the possibility of latch failure allowing front hoods to open unexpectedly.
+
+
+==== Autopilot ====
+The first known fatal accident when Autopilot was active occurred in Williston, Florida on May 7, 2016. In June 2016, the U.S. National Highway Traffic Safety Administration (NHTSA) opened a formal investigation into the accident, working with the Florida Highway Patrol. According to NHTSA, preliminary reports indicate the crash occurred when a tractor-trailer made a left turn in front of the Tesla at an intersection on a non-controlled access highway, and the driver and the car failed to apply the brakes. NHTSA's preliminary evaluation examined the design and performance of automated driving systems, which involved an estimated 25,000 cars.According to Tesla, "neither autopilot nor the driver noticed the white side of the tractor-trailer against a brightly lit sky, so the brake was not applied." The car attempted to drive full speed under the trailer, "with the bottom of the trailer impacting the windshield of the Model S." Tesla also stated that this was Tesla's first known Autopilot-related death in over 130 million mi (209 million km) driven by its customers while Autopilot was activated. According to Tesla a fatality occurred every 94 million mi (150 million km) among all type of vehicles in the U.S. In January 2017, NTSB concluded Tesla was not at fault since the driver in the crash had seven seconds to see the truck and take action; the investigation revealed that the Tesla car crash rate dropped by 40 percent under autopilot.
+
+
+=== NHTSA safety ===
+On August 19, 2013, based on NHTSA safety ratings, a Tesla press release claimed that the Model S had achieved the best safety rating of any car ever tested. Tesla stated, "NHTSA does not publish a star rating above 5, however safety levels better than 5 stars are captured in the overall Vehicle Safety Score (VSS) provided to manufacturers, where the Model S achieved a new combined record of 5.4 stars." However, a few days later NHTSA rebutted Tesla's claim, explaining that the rating for the Model S was equal to any other car receiving 5-stars, and claiming that the carmaker did not follow its advertising guidelines.In July 2017, the Insurance Institute for Highway Safety (IIHS) found that during front crash tests, the Model S safety belts let the driver's torso move too far forward, resulting in the head striking the steering wheel hard through the airbag. This problem was already pointed out in one of the IIHS's earliers tests, to which Tesla responded they would improve their safety belt design, which, according to the IIHS's latest tests, has not been done. The IIHS also gave the Model S the worst possible rating for its headlights. The report caused Tesla to lose 6.4% of its stock value.
+
+
+== Issues and criticism ==
+
+
+=== Range limitation ===
+On February 8, 2013, The New York Times published a review by John M. Broder about a trip between Washington, D.C., and Boston using Tesla's Supercharger network. At the time it included only two stations on the East Coast. Broder made a variety of critical claims about the battery's performance in cold weather and the distance between charging stations. The trip ended with the Model S carried on a flatbed truck to the Milford, Connecticut, station.Tesla responded by publishing logs of the vehicle's charge levels and driving speed that contradicted Broder's account. Tesla implied that Broder's behavior forced the car to fail. Broder replied to the criticism, suggesting that the speed discrepancies may have been because the car had been equipped with 19-inch wheels rather than the specified 21-inch wheels. In the midst of the controversy, a CNN reporter recreated Broder's trip without exhausting the battery. However, two differences distinguished the journeys. The weather was about 10 °F (6 °C) warmer and CNN completed the trip in one day; the Times let the car sit overnight while not plugged in. A reporter from CNBC also recreated the trip in one day without incidents. One week later, a group of Tesla owners recreated Broder's trip without problems.On February 18, 2013, The New York Times Public Editor Margaret Sullivan published an editorial stating that Broder took "casual and imprecise notes" and used poor judgment, but she maintained that the article was written in good faith. She admitted that Broder's vehicle logs were "sometimes quite misleading."In July and September 2014 tests performed by an independent German car magazine in cooperation with the TÜV (German Association for Technical Inspection) and Tesla owners seemed to reveal issues with the battery's performance. According to the magazine, Tesla did not take up the invitation to repeat the test, and seemed to refuse to offer vehicles for a second test. A test performed by another German publication ("Die Welt") supported the findings.
+
+
+=== Power dissipation when not in use ===
+Older versions of the system software suffered from power drain issues when the car wasn't being used, with the batteries losing 4.5 kWh overnight (known commonly as "vampire drain"). System software v5.8 (v1.49.30), released December 12, 2013, reduced overnight energy loss substantially, to 1.1 kWh per night, or around 3 miles.
+
+
+=== Consumer Reports' recommendation ===
+In October 2015, two months after naming the Tesla 'the best car ever tested,' Consumer Reports declined to give the Tesla Model S a "recommended" designation, citing too many complaints from owners. Complaints ranged from misaligned doors and squeaky body, to total drive train failure and inoperable door handles. Tesla's shares dropped 15%, both because of the magazine's cut and because of concerns over the Tesla Model X luxury SUV. Similarly, Edmunds.com found quality and safety issues in their long-term road test and "amassed quite the repair résumé during the last 17 months." Both Edmunds and Consumer Reports reported the vehicle stalling while driving.In their 2016 Annual Auto Reliability Survey, Consumer Reports improved the Model S rating to average reliability. The magazine raised "serious concerns about how some automakers, including Tesla, have designed, deployed, and marketed semi-autonomous technology."By 2017, in the Consumer Reports Car Reliability Survey, Tesla's position on the list moved up four spots; and the predicted reliability rating for Model S reached "above average" for the first time.In 2018 the annual Consumer Reports reliability survey found Tesla cars amongst the worst with the brand falling 6 spots from 2017 and third worst amongst the brands surveyed. The Model S dropped "below average" in reliability with suspension problems and other issues that included the extending door handle.In 2019 the model S achieved a Consumer Reports "recommended" designation due to improved reliability, with the Model S as the second-most reliable out of four ultra-luxury cars tested.
+
+
+=== Power discrepancy ===
+The P85D "insane mode" was widely reported to have 691 horsepower, but some owners reported 20% less power on the dynamometer in various circumstances. As of November 2015, Tesla website showed battery-limited combined 345 kilowatts (463 hp) for P85D (397 kilowatts (532 hp) for "Ludicrous"). A lawsuit by 126 owners in Norway was settled in December 2016.
+
+
+=== Power consumption ===
+In early March 2016, a report by Stuff magazine revealed that a test performed by VICOM, Ltd on behalf of Singapore's Land Transport Authority had found a 2014 Tesla Model S to be consuming 444 Wh/km (0.715 kW⋅h/mi), which was greater than the 240 Wh/km (0.38 kW⋅h/mi) reported by EPA and the 181 Wh/km (0.291 kW⋅h/mi) reported by Tesla. As a result, a carbon surcharge was imposed on the Model S, making Singapore the only country in the world to impose an environmental surcharge on a fully electric car. The Land Transport Authority justified this by stating that it had to "account for CO2 emissions during the electricity generation process" and therefore "a grid emission factor of 0.5 g/watt-hour was also applied to the electric energy consumption". Tesla countered that when the energy used to extract, refine, and distribute gasoline was taken into account, the Model S produced approximately one-third the CO2 of an equivalent gasoline-powered vehicle.Later that month, the Land Transport Authority released a statement stating that they and the VICOM Emission Test Laboratory would work with Tesla engineers to determine whether the test was flawed, and a Tesla statement indicated that the discussions were "positive" and that they were confident of a quick resolution.
+
+
+=== Plaid+ reservation issues ===
+After it was announced that Plaid+ was canceled, some reservation holders discovered their reservations had been converted into a full order for the regular Plaid version and with no refund included for their Plaid+ deposit.
+
+
+== Awards ==
+The Model S has received numerous awards, including:
+
+2013 AutoGuide.com Reader's Choice Car of the Year
+2013 World Green Car of the Year
+Automobile Magazine's 2013 Car of the Year, a unanimous decision
+CNET Tech Car of the Year for 2012
+Consumer Reports gave the Model S a score of 103 out of 100, its highest ever. The Model S broke the rating scale of Consumer Reports during its most recent test.
+Consumer Reports' 2013 survey of owner satisfaction produced a score of 99 out of 100, "the highest the magazine has seen in years." In 2014 the Model S topped for the second year in a row Consumer Reports survey of owner satisfaction. This time the Model S had a score of 98 out of 100.
+Consumer Reports found the Model S to be 'Best Overall' for 2014 across all 10 categories of cars, light trucks and SUVs, chosen from more than 260 vehicles the organization has recently tested. The magazine considers the Model S a "technological tour de force, while pricey, is brimming with innovation." In 2015 they rated the Model S at 103 (breaking the scale).
+Green Car Reports' Best Car To Buy 2013
+Hagerty Greatest Car of the Decade (2010s)
+Motor Trend 2013 Car of the Year, also a unanimous decision and the first winner in the award's history to not be powered by an internal combustion engine
+Natural Resources Canada 2013 EcoENERGY for Vehicles Awards in the full-size category
+Popular Science's Auto Grand Award Winner Best of What's New list 2012
+The Telegraph included the Model S in its list of the top 10 cars that changed the world published in December 2014, and also named the electric sedan the most important car of the last 20 years.
+Time Magazine Best 25 Inventions of the Year 2012 award. In 2019, the model S was included in the Time Magazine list of best gadgets of the 2010s.
+Yahoo! Autos 2013 Car of the Year
+American Automobile Association Green Car Guide 2015, top spot (P85D). The Model S also won the 2014 AAA Green Car Guide.
+2019 Green Car Reports Car of the Decade
+
+
+=== Records ===
+All of these records used hypermiling techniques such as front motor only, low speed 24 mph (39 km/h), no air conditioning and minimal use of the brakes.  These attempts were inspired by a blog written by Elon Musk about the planned range and efficiency of the Tesla Model S, offering a prize for anyone exceeding 400 miles (640 km) on a single charge, where it was estimated the 85 kWh model could do it by driving at a constant 36 mph (58 km/h) under ideal conditions.In early September 2019, a prototype ("plaid" tri motor) Tesla Model S went faster than the official record for the fastest "four-door electric sports car" at the Laguna Seca Raceway, beating a previous time held by the Tesla Model 3 Performance.
+
+
+== See also ==
+Electric car use by country
+Government incentives for plug-in electric vehicles
+List of electric cars currently available
+List of fastest production cars by acceleration
+List of production cars by power output
+List of modern production plug-in electric vehicles
+List of production battery electric vehicles
+List of Easter eggs in Tesla products
+
+
+== References ==
+
+
+== Further reading ==
+van Gilluwe, Frank (2013). Tesla Model S – Best Car Ever! (1st. ed.). FAQware. ISBN 978-0-9860689-0-4.See book review: "Tesla Model S Best Car Ever!" is the Book All Model S Owners Should Own (Book Review)". InsideEVs. December 13, 2013.
+Howe, Nick J. (2014). Owning Model S: The Definitive Guide to Buying and Owning the Tesla Model S (1st. ed.).See book review: "Owning A Tesla Model S: New Book Offers Tips, Tricks, Inside Info (Book Review)". Green Car Reports. May 27, 2017.
+
+
+== External links ==
+
+Official website 
+2012 Tesla Model S test and range verification
+Should Battery Fires Drive Electric Cars Off the Road?, Scientific American, November 12, 2013.

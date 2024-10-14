@@ -1,0 +1,80 @@
+[
+  {
+    'Heading': None,
+    'Content': []
+  },
+  {
+    'Heading': 'History of the handbook',
+    'Content': [
+      'The handbook started when GitLab was a company of just ten people to make sharing information efficient and easy.',
+      "We knew that future GitLab team-members wouldn't be able to see emails about process changes that were being sent before they joined and that most of the people who would eventually join GitLab likely hadn't even heard of us yet.",
+      'The handbook was our way of ensuring that all of our company information was accessible to everyone regardless of when they became part of the team.'
+    ]
+  },
+  {
+    'Heading': 'Advantages',
+    'Content': [
+      "At GitLab our handbook is extensive and keeping it relevant is an important part of everyone's job.",
+      'It is a vital part of who we are and how we communicate.',
+      'We established these processes because we saw these benefits:',
+      'Reading is much faster than listening.',
+      "Reading is async, you don't have to interrupt someone or wait for them to become available.",
+      'Talent Acquisition is easier if people can see what we stand for and how we operate.',
+      'Retention is better if people know what they are getting into before they join.',
+      'On-boarding is easier if you can find all relevant information spelled out.',
+      'Teamwork is easier if you can read how other parts of the company work.',
+      'Discussing changes is easier if you can read what the current process is.',
+      'Communicating change is easier if you can just point to the diff.',
+      'Everyone can contribute to it by proposing a change via a merge request.',
+      'One common concern newcomers to the handbook express is that the strict documentation makes the company more rigid.',
+      'In fact, writing down our current process in the handbook has the effect of empowering contributors to propose change.',
+      "As a result, this handbook is far from rigid. You only need to look at thehandbook changelogto see the evidence. Every attempt is made to document guidelines and processes in the handbook. However, it is not possible to document every possible situation or scenario that could potentially occur. Just because something is not yet in the handbook does not mean that it is allowed. GitLab will review each team member's concern or situation based on local laws to determine the best outcome and then update the handbook accordingly. If you have questions, please discuss with your manager or contact thePeople Successteam."
+    ]
+  },
+  {
+    'Heading': 'Handbook Interpretation',
+    'Content': [
+      'The handbook is subject to interpretation. We do our best to be as clear as possible to minimize confusion and/or misinterpretation. We also recognize that we have a global audience and that may bring different interpretations. If you have any questions or need further clarification please check with the content owner of the page. When in doubt please reach out and ask.',
+      'Remember thateverything is in draftat GitLab and subject to change, this includes our handbook.'
+    ]
+  },
+  {
+    'Heading': 'Count handbook pages',
+    'Content': [
+      "It's easy to see that the handbook is large, but have you ever wondered justhowlarge?",
+      "The handbook is overtwothousandpages long. That's a lot of good info!"
+    ]
+  },
+  {
+    'Heading': 'Historical Word and Page Counts',
+    'Content': []
+  },
+  {
+    'Heading': 'about.gitlab.com/handbook',
+    'Content': [
+      '{{< handbook-counts site="about" >}}'
+    ]
+  },
+  {
+    'Heading': 'handbook.gitlab.com/handbook',
+    'Content': [
+      '{{< handbook-counts site="handbook" >}}'
+    ]
+  },
+  {
+    'Heading': 'Methodology',
+    'Content': [
+      'Word and page counts are determined through a simple two-step process:',
+      'Count the number of words in the handbook. This can be done by runningfind sites/handbook/source/handbook -type f -name "*.md" -o -name "*.md.erb" | xargs wc -wfrom the root of the repository.',
+      'Count the number of pages in the handbook. This can be done by runninggrep -l -r "\\" * | wc -lfrom the root of the repository.',
+      'Note: If you need to go back to an earlier version of the handbook, usegit checkout `git rev-list -n 1 --first-parent --before="2021-07-02 00:00" master`specifying the next day after the day you want.'
+    ]
+  },
+  {
+    'Heading': 'View Statistics',
+    'Content': [
+      'On this page you can see handbook trends and discover popular pages that you may not know about.',
+      'GitLab usesSnowplowto track handbook usage; the information can be viewed onTableau.'
+    ]
+  }
+]
